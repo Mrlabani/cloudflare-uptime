@@ -1,6 +1,6 @@
 name = "uptime"
 type = "webpack"
-account_id = ""
+account_id = "15c09f0f298a7e26646b104e34dc0a24"
 workers_dev = true
 route = ""
 zone_id = ""
